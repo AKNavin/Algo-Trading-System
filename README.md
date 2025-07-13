@@ -56,4 +56,17 @@ Live Trade Logs: Color-coded by action (Buy, Sell, Square-off)
 
 Cumulative PnL Graph: Based on executed prices in log
 
+## **Data Source**
+
+Practice.db: SQLite database storing realtime tick-by-tick data for price and volume for each stock
+
+Log.xlsx: Excel log file with
+
+Sheet1: Trade actions + order logs
+
+Sheet2: Executed prices for PnL
+
+Sheet3: Open position tracking
+
+
 
