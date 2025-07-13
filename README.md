@@ -46,7 +46,7 @@ Position is squared off on reverse signal and a new position is opened
 
 Dropdown: Select stock (HB, RS, IB, ISS) (Top 4 stocks in NIFTY by weightage)
 
-HB :  HDFCBANK, RS : RELIANCE, IB : ICICIBANK, ISS : INFY
+- HB :  HDFCBANK, RS : RELIANCE, IB : ICICIBANK, ISS : INFY
 
 OHLC Candlestick Chart: 1-minute bars with EMA 5 & EMA 15
 
