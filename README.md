@@ -68,5 +68,10 @@ Log.xlsx: Excel log file with
 
 * Sheet3: Open position tracking
 
+## **Notes**
+API key and API Secret credentials need to be filled for live execution
 
+Access tokens expire daily — needs fresh token for live execution
+
+Backtest version can be built using the same strategy logic module over historical data
 
