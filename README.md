@@ -44,7 +44,7 @@ Position is squared off on reverse signal and a new position is opened
 
 ## **Live Dash Dashboard**
 
-Dropdown: Select stock (HB, RS, IB, ISS)
+Dropdown: Select stock (HB, RS, IB, ISS) (Top 4 stocks in NIFTY by weightage)
 
 HB :  HDFCBANK, RS : RELIANCE, IB : ICICIBANK, ISS : INFY
 
