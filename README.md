@@ -17,7 +17,7 @@ It executes a 1-minute EMA 5/15 crossover strategy and logs trades + PnL live in
 
 ## **Components**
 
-KiteOrderPlacement.py	- Runs the live algo trading loop — reads tick data from Practice.db and resample it to OHLC data, detects signals, places orders via KiteConnect, logs actions to Log.xlsx
+KiteOrderPlacement.py	- Runs the live algo trading loop — reads tick data from Practice.db and resamples it to 1-min OHLC data, detects signals, places orders via KiteConnect, logs actions to Log.xlsx
 
 PlotlyLiveplots.py	- Interactive Plotly Dash dashboard showing live OHLC + EMA crossover charts, volume bars, algo trade logs, and cumulative PnL graph
 
