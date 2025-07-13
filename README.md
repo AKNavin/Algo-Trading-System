@@ -6,10 +6,16 @@ This project implements a fully automated real-time algorithmic trading system u
 
 It executes a 1-minute EMA 5/15 crossover strategy and logs trades + PnL live into Excel, while charting OHLC data, trade actions, and PnL in a Dash dashboard.
 
+## 🎥 **Demo Videos**
+
+## 📺 [Live Algo Trading Deployment | Initial Trade Execution on Zerodha Kite](https://youtu.be/hWZECBEJVXE)
+
+## 📺 [Live Algo Trade Management | Square-Off and New Position Execution](https://youtu.be/U-9PjQyUNhI)
+
+## 📺 [Algo Trading EOD Report | Final Trade and P&L Display](https://youtu.be/lN8kbwqjvts)
+
 
 ## **Components**
-
-File/Module	      -  Description
 
 KiteOrderPlacement.py	- Runs the live algo trading loop — reads tick data from Practice.db and resample it to OHLC data, detects signals, places orders via KiteConnect, logs actions to Log.xlsx
 
@@ -48,10 +54,4 @@ Live Trade Logs: Color-coded by action (Buy, Sell, Square-off)
 
 Cumulative PnL Graph: Based on executed prices in log
 
-## 🎥 **Demo Videos**
 
-📺 [Live Algo Trading Deployment | Initial Trade Execution on Zerodha Kite](https://youtu.be/hWZECBEJVXE)
-
-📺 [Live Algo Trade Management | Square-Off and New Position Execution](https://youtu.be/U-9PjQyUNhI)
-
-📺 [Algo Trading EOD Report | Final Trade and P&L Display](https://youtu.be/lN8kbwqjvts)
