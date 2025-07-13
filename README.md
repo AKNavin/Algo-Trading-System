@@ -62,11 +62,11 @@ Practice.db: SQLite database storing realtime tick-by-tick data for price and vo
 
 Log.xlsx: Excel log file with
 
-*Sheet1: Trade actions + order logs
+* Sheet1: Trade actions + order logs
 
-*Sheet2: Executed prices for PnL
+* Sheet2: Executed prices for PnL
 
-*Sheet3: Open position tracking
+* Sheet3: Open position tracking
 
 
 
