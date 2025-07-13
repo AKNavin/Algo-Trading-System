@@ -46,6 +46,8 @@ Position is squared off on reverse signal and a new position is opened
 
 Dropdown: Select stock (HB, RS, IB, ISS)
 
+HB :  HDFCBANK, RS : RELIANCE, IB : ICICIBANK, ISS : INFY
+
 OHLC Candlestick Chart: 1-minute bars with EMA 5 & EMA 15
 
 Volume Bar Chart
